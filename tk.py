@@ -1,6 +1,7 @@
 import tkinter as tk
 root = tk.Tk()
 root.geometry("600x400")
+
 name_var = tk.StringVar()
 passw_var = tk.StringVar()
 details_var = tk.StringVar()
